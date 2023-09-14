@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RishitLuthra
+- 👀 I’m interested in Data Science using Python 
+- 🌱 I’m currently learning Machine Learning Algorithms
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 Reach me out on luthrarishit1234@gmail.com
